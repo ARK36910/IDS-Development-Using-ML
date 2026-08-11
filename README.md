@@ -53,8 +53,8 @@ pip install notebook
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/ARK36910/IDS-Development-Using-ML.git
+cd IDS-Development-Using-ML
 ```
 
 ### 2. Download the dataset
